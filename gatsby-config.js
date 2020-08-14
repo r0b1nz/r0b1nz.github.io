@@ -1,10 +1,10 @@
 module.exports = {
   siteMetadata: {
-    title: 'Blog.',
+    title: 'LetItStack',
     author: 'Robin Gautam',
     description:
-      'Uncensor Software Engienering blog by Robin Gautam. I explain with words and code.',
-    siteUrl: 'https://feelgoodblog.com',
+      'Uncensored Software Engineering blog by Robin Gautam. I communicate using words and algorithms.',
+    siteUrl: 'https://LetItStack.com',
     social: {
       twitter: '@r0b1nz',
     },
