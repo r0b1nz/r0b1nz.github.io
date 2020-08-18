@@ -17,7 +17,7 @@ class Footer extends React.Component {
           </a>
         </div>
         <a
-          href="https://mobile.twitter.com/dan_abramov"
+          href="https://mobile.twitter.com/robin__x_x"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -25,7 +25,7 @@ class Footer extends React.Component {
         </a>{' '}
         &bull;{' '}
         <a
-          href="https://github.com/gaearon"
+          href="https://github.com/r0b1nz"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -33,11 +33,35 @@ class Footer extends React.Component {
         </a>{' '}
         &bull;{' '}
         <a
-          href="https://stackoverflow.com/users/458193/dan-abramov"
+          href="https://stackoverflow.com/users/11635582/robin-gautam"
           target="_blank"
           rel="noopener noreferrer"
         >
           stack overflow
+        </a>{' '}
+        &bull;{' '}
+        <a
+          href="https://www.linkedin.com/in/robin-gautam/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          linkedin
+        </a>{' '}
+        &bull;{' '}
+        <a
+          href="https://unsplash.com/@r0b1n"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          unsplash
+        </a>{' '}
+        &bull;{' '}
+        <a
+          href="https://vsco.co/mindful-misc/gallery"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          vsco
         </a>
       </footer>
     );
